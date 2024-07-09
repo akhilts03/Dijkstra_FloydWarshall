@@ -1,7 +1,5 @@
 //Akhil Thirukonda Sivakumar (2103106)
 //Vikrant Suresh Tripathi (2103141)
-//Lab 7.2
-
 
 #include <stdio.h>
 #include <stdlib.h>
