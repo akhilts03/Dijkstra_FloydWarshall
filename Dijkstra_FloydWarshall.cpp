@@ -1,5 +1,4 @@
-//Akhil Thirukonda Sivakumar (2103106)
-//Vikrant Suresh Tripathi (2103141)
+
 //Graph.txt has 50 vertices.
 //input.txt has 5 vertices.
 
